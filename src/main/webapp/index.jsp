@@ -5,7 +5,7 @@
     <title>Krishna Bank - Home check33</title>
 </head>
 <body>
-<h1>Krishna Bank under test</h1>
+<h1>Krishna Bank under test stage</h1>
 <p>This is a sample Java 8 web application deployed on Tomcat using Maven.</p>
 
 <ul>
